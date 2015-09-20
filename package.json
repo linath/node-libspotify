@@ -1,10 +1,10 @@
 {
   "name": "node-libspotify",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "lib/spotify.js",
   "dependencies": {
     "lodash": "^2.4.1",
-    "node-spotify": "^0.6.0",
+    "node-spotify": "^0.7.1",
     "q": "^1.1.1",
     "request": "^2.48.0"
   },
